@@ -38,6 +38,7 @@ NPS (Net Promoter Score): готовность рекомендовать ком
 Конверсия в целевые действия.
 
 **Базируется на опенсорс-тулах**
+
 — https://superset.apache.org
 
 — https://github.com/LexxaRRioo/tg-private-ch-stats-to-sheets-export 
